@@ -15,7 +15,7 @@ namespace AzureTestApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "hahaha Apps About Page.";
+            ViewBag.Message = "hahahahhhh App About Page.";
 
             return View();
         }
