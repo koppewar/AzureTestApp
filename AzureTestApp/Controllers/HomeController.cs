@@ -15,14 +15,14 @@ namespace AzureTestApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Netaji Apps About Page.";
+            ViewBag.Message = "hahaha Apps About Page.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "I modified it";
+            ViewBag.Message = "hahahaha modified it";
 
             return View();
         }
